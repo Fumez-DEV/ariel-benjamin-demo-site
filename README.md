@@ -29,19 +29,19 @@ This repository hosts a demo website for **Ariel Benjamin Fitness**, a professio
 ## Screenshots
 
 ### Header and Hero Section
-![Header and Hero](img/Screenshot 2024-10-29 193842.png)
+![Header and Hero]([img/Screenshot 2024-10-29 193842.png](https://cdn.discordapp.com/attachments/816789162072997889/1300878050329624586/Screenshot_2024-10-29_193842.png?ex=67227098&is=67211f18&hm=db3b030c2fbf0fd59d361c6d17d61dc2f0457e7210247bff0da9373f16896136&))
 
 ### About Section
-![About Section](img/Screenshot 2024-10-29 193932.png)
+![About Section]([img/Screenshot 2024-10-29 193932.png](https://cdn.discordapp.com/attachments/816789162072997889/1300878050648653916/Screenshot_2024-10-29_193932.png?ex=67227098&is=67211f18&hm=2acdbb77fd855264e56cc9fdb583270b9c0155047cac866c9da976b55aa48837&))
 
 ### Programs Section
-![Programs Section](img/Screenshot 2024-10-29 194013.png)
+![Programs Section]([img/Screenshot 2024-10-29 194013.png](https://cdn.discordapp.com/attachments/816789162072997889/1300878051432857752/Screenshot_2024-10-29_194013.png?ex=67227098&is=67211f18&hm=c33ba807197bc191693e1256368733f866de770063b534737084f91720feea0e&))
 
 ### Testimonials Section
-![Testimonials Section](img/Screenshot 2024-10-29 193954.png)
+![Testimonials Section]([img/Screenshot 2024-10-29 193954.png](https://cdn.discordapp.com/attachments/816789162072997889/1300878051017490462/Screenshot_2024-10-29_193954.png?ex=67227098&is=67211f18&hm=5030b9b57b10f5e0317bdf31642870da87204f68089e1622101b203c13339b9f&))
 
 ### Contact Section
-![Contact Section](img/Screenshot 2024-10-29 194029.png)
+![Contact Section]([img/Screenshot 2024-10-29 194029.png](https://cdn.discordapp.com/attachments/816789162072997889/1300878051831451811/Screenshot_2024-10-29_194029.png?ex=67227098&is=67211f18&hm=5e76fe39e8cfcf0516ee94f661441a743685addc25d302aaad1503a60499aebe&))
 
 ## Technologies Used
 
