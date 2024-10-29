@@ -13,9 +13,6 @@ This repository hosts a demo website for **Ariel Benjamin Fitness**, a professio
 - [Contributing](#contributing)
 - [License](#license)
 
-## Live Demo
-
-[Visit the Live Demo](https://your-demo-link.com)
 
 ## Features
 
