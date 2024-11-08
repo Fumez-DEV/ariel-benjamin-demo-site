@@ -64,7 +64,9 @@ To set up this project locally:
 ## Usage
 
 • Open the site and navigate through each section: **Home, About, Programs, Testimonials, and Contact.**
+
 • Test the responsiveness by resizing the browser window or viewing it on different devices.
+
 • Interact with the Contact Form (no backend implemented for demo).
 
 ## Contributing
